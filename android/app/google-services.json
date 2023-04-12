@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894437044385",
+    "project_id": "eressaiauthfirebase",
+    "storage_bucket": "eressaiauthfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894437044385:android:df8115c5cf7a6155fb80e0",
+        "android_client_info": {
+          "package_name": "com.example.premier_essai_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894437044385-kjtkdbe225jjsq6k6lkgj04n081korl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv373Ry9lc5PD7FZkW2CuVPij5UzTJkg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894437044385-kjtkdbe225jjsq6k6lkgj04n081korl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
